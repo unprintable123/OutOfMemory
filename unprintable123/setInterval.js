@@ -1,1 +1,1 @@
-(e=()=>setInterval(e))()
+(e=s=>setInterval(e))()
